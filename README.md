@@ -14,6 +14,7 @@ barstools (counter 43" height)
 kitchen table  
 paper towels  
 pots & pans  
+pot for spider plant  
 recycle bin  
 silverware holder  
 sodastream  
