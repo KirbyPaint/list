@@ -31,13 +31,15 @@ hangers
 
 ## Main Bath
 
+bar soap  
 bathmat  
 bathroom rug  
 shower curtain  
-trash can with lid
+trash can with lid  
 
 ## Alt Bath
 
+bar soap  
 bathmat  
 bathroom rug  
 trash can with lid
