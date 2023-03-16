@@ -2,15 +2,15 @@
 
 ## Living Room
 
-cube storage
-door stopper
+cube storage  
+door stopper  
 vacuum
 
 ## Kitchen
 
-barstools
-kitchen table
-paper towels
+barstools  
+kitchen table  
+paper towels  
 pots & pans  
 recycle bin  
 silverware holder  
@@ -27,14 +27,14 @@ hangers
 ## Main Bath
 
 bathmat  
-bathroom rug
-shower curtain
+bathroom rug  
+shower curtain  
 trash can with lid
 
 ## Alt Bath
 
 bathmat  
-bathroom rug
+bathroom rug  
 trash can with lid
 
 ## Patio
