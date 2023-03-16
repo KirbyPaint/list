@@ -9,7 +9,7 @@ vacuum
 
 ## Kitchen
 
-barstools  
+barstools (counter 43" height)  
 kitchen table  
 paper towels  
 pots & pans  
