@@ -1,17 +1,42 @@
-# list
+# Apartment Needs
 
-vacuum  
+## Living Room
+
+cube storage
+door stopper
+vacuum
+
+## Kitchen
+
+barstools
+kitchen table
+paper towels
 pots & pans  
-silverware holder  
-barstools  
-kitchen table  
-bathroom trash cans  
 recycle bin  
-paper towels  
-hangers  
-cube storage  
-bathmat  
-bathroom rug  
+silverware holder  
 sodastream  
 toaster oven  
-tupperwares  
+tupperwares/food storage
+
+## Office
+
+## Bedroom
+
+hangers
+
+## Main Bath
+
+bathmat  
+bathroom rug
+shower curtain
+trash can with lid
+
+## Alt Bath
+
+bathmat  
+bathroom rug
+trash can with lid
+
+## Patio
+
+foldable deck chairs
