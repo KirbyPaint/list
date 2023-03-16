@@ -5,6 +5,7 @@
 cube storage  
 door stopper  
 something for Toaster to sit on  
+sound system  
 vacuum
 
 ## Kitchen
