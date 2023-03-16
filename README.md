@@ -17,7 +17,8 @@ recycle bin
 silverware holder  
 sodastream  
 toaster oven  
-tupperwares/food storage
+tupperwares/food storage  
+label/sticker remover  
 
 ## Office
 
