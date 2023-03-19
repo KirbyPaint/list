@@ -28,14 +28,12 @@ canned air
 
 ## Bedroom
 
-hangers
-
 ## Main Bath
 
 bar soap  
 bathmat  
 bathroom rug  
-shower curtain  
+shower liner
 trash can with lid  
 
 ## Alt Bath
@@ -47,4 +45,3 @@ trash can with lid
 
 ## Patio
 
-foldable deck chairs
