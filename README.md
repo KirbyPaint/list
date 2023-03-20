@@ -13,11 +13,10 @@ vacuum
 barstools (counter 43" height)  
 kitchen table  
 paper towels  
-pots & pans  
+pots  
 pot for spider plant  
 recycle bin  
 silverware holder  
-sodastream  
 toaster oven  
 tupperwares/food storage  
 label/sticker remover  
@@ -32,8 +31,6 @@ canned air
 
 bar soap  
 bathmat  
-bathroom rug  
-shower liner
 trash can with lid  
 
 ## Alt Bath
