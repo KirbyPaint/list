@@ -24,7 +24,8 @@ label/sticker remover
 
 ## Office
 
-canned air
+canned air  
+trash can (repurpose one from bathroom)  
 
 ## Bedroom
 
@@ -32,6 +33,7 @@ canned air
 
 bar soap  
 bathmat  
+stool  
 trash can with lid  
 
 ## Alt Bath
@@ -39,6 +41,7 @@ trash can with lid
 bar soap  
 bathmat  
 bathroom rug  
+stool  
 trash can with lid
 
 ## Patio
