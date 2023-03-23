@@ -21,6 +21,7 @@ silverware holder
 toaster oven  
 tupperwares/food storage  
 label/sticker remover  
+that baking soda stuff  
 
 ## Office
 
