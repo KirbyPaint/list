@@ -4,6 +4,7 @@
 
 cube storage  
 door stopper  
+gamecube switch adapter  
 something for Toaster to sit on  
 sound system  
 vacuum
