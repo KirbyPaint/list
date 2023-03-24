@@ -20,7 +20,6 @@ recycle bin
 silverware holder  
 toaster oven  
 tupperwares/food storage  
-label/sticker remover  
 that baking soda stuff  
 
 ## Office
@@ -35,7 +34,6 @@ trash can (repurpose one from bathroom)
 bar soap  
 bathmat  
 stool  
-trash can with lid  
 
 ## Alt Bath
 
