@@ -13,10 +13,8 @@ vacuum
 
 barstools (counter 43" height)  
 kitchen table  
-paper towels  
 pots  
 pot for spider plant  
-recycle bin  
 silverware holder  
 toaster oven  
 tupperwares/food storage  
@@ -25,23 +23,19 @@ that baking soda stuff
 ## Office
 
 canned air  
-trash can (repurpose one from bathroom)  
 
 ## Bedroom
 
 ## Main Bath
 
-bar soap  
 bathmat  
 stool  
 
 ## Alt Bath
 
-bar soap  
 bathmat  
 bathroom rug  
 stool  
-trash can with lid
 
 ## Patio
 
