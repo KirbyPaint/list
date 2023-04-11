@@ -7,14 +7,13 @@ door stopper
 gamecube switch adapter  
 something for Toaster to sit on  
 sound system  
+uninterrupted power supply  
 vacuum
 
 ## Kitchen
 
 barstools (counter 43" height)  
 kitchen table  
-pots  
-pot for spider plant  
 silverware holder  
 toaster oven  
 tupperwares/food storage  
@@ -37,5 +36,6 @@ bathmat
 bathroom rug  
 stool  
 
-## Patio
+## Patio/Misc
 
+welcome mat  
