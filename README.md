@@ -27,7 +27,7 @@ canned air
 
 ## Main Bath
 
-bathmat  
+grippy bathmat  
 stool  
 
 ## Alt Bath
