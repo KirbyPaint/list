@@ -2,7 +2,6 @@
 
 ## Living Room
 
-cube storage  
 door stopper  
 gamecube switch adapter  
 something for Toaster to sit on  
@@ -13,7 +12,6 @@ vacuum
 ## Kitchen
 
 barstools (counter 43" height)  
-kitchen table  
 silverware holder  
 toaster oven  
 tupperwares/food storage  
@@ -22,12 +20,12 @@ that baking soda stuff
 ## Office
 
 canned air  
+green screwdriver set  
 
 ## Bedroom
 
 ## Main Bath
 
-grippy bathmat  
 stool  
 
 ## Alt Bath
