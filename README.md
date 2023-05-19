@@ -2,25 +2,21 @@
 
 ## Living Room
 
-door stopper  
 gamecube switch adapter  
 something for Toaster to sit on  
 sound system  
 uninterrupted power supply  
-vacuum
 
 ## Kitchen
 
-barstools (counter 43" height)  
 silverware holder  
-toaster oven  
+toaster oven?  
 tupperwares/food storage  
-that baking soda stuff  
+baking soda  
 
 ## Office
 
 canned air  
-green screwdriver set  
 
 ## Bedroom
 
