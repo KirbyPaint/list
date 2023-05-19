@@ -3,6 +3,7 @@
 ## Living Room
 
 gamecube switch adapter  
+plastic mat for rolly chair  
 something for Toaster to sit on  
 sound system  
 uninterrupted power supply  
@@ -17,6 +18,7 @@ baking soda
 ## Office
 
 canned air  
+plastic mat for rolly chair  
 
 ## Bedroom
 
