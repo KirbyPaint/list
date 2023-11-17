@@ -4,16 +4,12 @@
 
 gamecube switch adapter  
 plastic mat for rolly chair  
-something for Toaster to sit on  
-sound system  
-uninterrupted power supply  
 
 ## Kitchen
 
 silverware holder  
 toaster oven?  
 tupperwares/food storage  
-baking soda  
 
 ## Office
 
@@ -29,9 +25,6 @@ stool
 ## Alt Bath
 
 bathmat  
-bathroom rug  
 stool  
 
 ## Patio/Misc
-
-welcome mat  
