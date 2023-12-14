@@ -4,6 +4,7 @@
 
 gamecube switch adapter  
 plastic mat for rolly chair  
+wall mount guitar holder  
 
 ## Kitchen
 
@@ -16,6 +17,7 @@ tupperwares/food storage
 
 canned air  
 plastic mat for rolly chair  
+rechargable AA/AAAs  
 
 ## Bedroom
 
@@ -29,4 +31,4 @@ bathmat
 
 ## Other
 
-steam gift cards always  
+steam cards  
