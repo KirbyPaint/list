@@ -7,7 +7,8 @@ plastic mat for rolly chair
 
 ## Kitchen
 
-silverware holder  
+paper plates  
+real narrow silverware holder  
 toaster oven?  
 tupperwares/food storage  
 
@@ -20,11 +21,12 @@ plastic mat for rolly chair
 
 ## Main Bath
 
-stool  
-
 ## Alt Bath
 
 bathmat  
-stool  
 
-## Patio/Misc
+## Patio
+
+## Other
+
+steam gift cards always  
